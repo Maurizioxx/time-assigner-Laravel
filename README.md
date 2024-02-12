@@ -46,19 +46,16 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[OP.GG](https://op.gg)**
 - **[CMS Max](https://www.cmsmax.com/)**
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+  
+## Final Results: 
+![image](https://github.com/Maurizioxx/time-assigner-Laravel/assets/113486608/8d3c0c1c-a556-4c15-b4b3-fb48264e7df3)
 
-## Contributing
+![image](https://github.com/Maurizioxx/time-assigner-Laravel/assets/113486608/cbde267f-2656-4d41-bd33-114e2f8256ff)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![image](https://github.com/Maurizioxx/time-assigner-Laravel/assets/113486608/bbacdd79-0a86-4dc4-bc37-3e2165426547)
 
-## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
